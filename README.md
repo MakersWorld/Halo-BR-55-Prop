@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/user-attachments/assets/68fa9fc6-e876-4139-8a2f-17b4fdfc10c0" alt="Halo BR55" width="200">
+  <img src="[https://github.com/user-attachments/assets/68fa9fc6-e876-4139-8a2f-17b4fdfc10c0](https://github.com/user-attachments/assets/ef9d3ab1-fa8c-4b03-8b16-f6543722e2e7)" alt="Halo BR55" width="400">
   <br>
   Halo BR55 Prop
   <br>
