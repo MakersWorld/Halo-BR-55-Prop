@@ -3,7 +3,7 @@
   <br>
   <img src="https://github.com/user-attachments/assets/ef9d3ab1-fa8c-4b03-8b16-f6543722e2e7" alt="Halo BR55" width="400">
   <br>
-  Halo BR55 Prop
+  Halo BR55 Prop (In Progress)
   <br>
 </h1>
 
