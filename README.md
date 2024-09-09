@@ -11,8 +11,9 @@
 
 <p align="center">
   <a href="#project-overview">Project Overview</a> •
+  <a href="#parts">Parts Needed</a> •
+  <a href="#tools">Tools</a> •
   <a href="#3d-printing">3D Printing</a> •
-  <a href="#parts">Parts List</a> •
   <a href="#Schematics">Schematics</a> •
   <a href="#code">Code</a> •
   <a href="#credits-resources">Credits / Resources</a>
@@ -27,7 +28,15 @@
   - See <a href="#credits-resources">Credits / Resources</a> for sources
 * Toggle dialogue button
   - Progress sequentially through a folder of dialogue snippets
-  - See <a href="#credits-resources">Credits / Resources</a> for sources 
+  - See <a href="#credits-resources">Credits / Resources</a> for sources
+ 
+## Parts Needed
+
+2 PLA spools 
+
+## Tools
+
+Soldering Iron with knife or scoring attachment (if cutting 3D prints)
 
 ## 3D Printing
 
@@ -55,9 +64,6 @@ Specific print advice:
 
 ```
 
-
-
-## Parts List
 
 
 
