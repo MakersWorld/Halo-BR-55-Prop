@@ -10,15 +10,15 @@
 <h4 align="center">A 3D printed prop of the Halo Battle Rifle.</h4>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#3dmodel">3D Model</a> •
+  <a href="#project-overview">Project Overview</a> •
+  <a href="#3d-printing">3D Printing</a> •
   <a href="#parts">Parts List</a> •
   <a href="#Schematics">Schematics</a> •
   <a href="#code">Code</a> •
   <a href="#credits-resources">Credits / Resources</a>
 </p>
 
-## Key Features
+## Project Overview
 
 * 2 digit 7-segment display that shows magazine count
 * Sound effects and responsive magazine count on trigger pull
@@ -29,7 +29,7 @@
   - Progress sequentially through a folder of dialogue snippets
   - See <a href="#credits-resources">Credits / Resources</a> for sources 
 
-## 3D Model
+## 3D Printing
 
 ![Batrtle Rifle_Main 1](https://github.com/user-attachments/assets/b23ef502-af31-4bf9-8a4a-9b81eee6aca8)
 
@@ -42,39 +42,23 @@ My recommended print settings
 * 20% infill
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
 
-# Go into the repository
-$ cd electron-markdownify
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
 ```
 
-> **Note**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
 
-## Download
+## Parts List
 
 
 
-## Emailware
+## Schematics
 
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
+
+
+## Code
+
+
 
 ## Credits
 
-This software uses the following open source packages:
 
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
