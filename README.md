@@ -35,11 +35,21 @@
 
 The model used for this project was purchased from <a href="https://www.etsy.com/listing/1596579158/br55-cannon-halo-printable-3d-model-stl?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=halo+br55&ref=sr_gallery-1-1&dd=1&content_source=9b0ec927c30374885e1954304b22e7a859dce2e9%253A1596579158&search_preloaded_img=1&organic_search_click=1">this link.</a>
 
-It took approximately 2 weeks to print all of the files on my ender 3 v2. 
+It took approximately 2 weeks to print all of the files on my ender 3 v2. Some of the pieces did warp while printing. I would suggest printing all of the pieces with a raft. You'll want to orient the prints so that they require as little support material as possible. 
 
-My recommended print settings
+My recommended print settings 
 * 0.2mm layer height
 * 20% infill
+
+Print part 76_Body_Dark Gray with
+*0.2mm layer height
+* 0% Infill
+* 2.0mm wall thickness
+* 1.6mm top/bottom thickness
+* Supports: Raft (everywhere)
+
+Specific print advice:
+(coming soon)
 
 ```bash
 
